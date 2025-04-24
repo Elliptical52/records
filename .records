@@ -34,3 +34,4 @@ Wed Apr 23 10:50:46 PM EDT 2025: ./text.sh
 Wed Apr 23 10:50:51 PM EDT 2025: ./test.sh
 Wed Apr 23 10:51:04 PM EDT 2025: chmod .
 Wed Apr 23 10:51:07 PM EDT 2025: chmod
+Wed Apr 23 10:51:10 PM EDT 2025: chmod -h
